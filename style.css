@@ -8,7 +8,7 @@ ul li{
     list-style: none;
 }
 body{
-    background: lightblue;
+    background: orange;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -90,7 +90,7 @@ body{
     cursor: pointer;
 }
 .contactInfo ul li .icon{
-    color: #03a9f4;
+    color: #fad335;
     display: inline-block;
     width: 30px;
     font-size: 18px;
@@ -115,7 +115,7 @@ body{
     font-weight: 300;
  }
 .contactInfo_education h5{
-    color: #03a9f4;
+    color: #fecd79;
     font-weight: 500;
 }
 .contactInfo_education ul li{
@@ -142,7 +142,7 @@ body{
 }
 .title2{
     text-transform: uppercase;
-    color: #003147;
+    color: #c28f43;
     letter-spacing: 1px;
     margin-bottom: 10px;
 }
@@ -168,7 +168,7 @@ p{
 .about .box .text h4
 {
     text-transform: uppercase;
-    color: #2a7da2;
+    color: hsl(36, 80%, 58%);
     font-size: 16px;
 }
 .about_skill .box{
@@ -178,6 +178,6 @@ p{
 }
 .about_skill .box h4{
     text-transform: uppercase;
-    color: #2a7da2;
+    color: #aa5d05;
     font-size: 16px;
 }
